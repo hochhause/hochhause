@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sasha Bieri!
 
-I'm currently pursuing my certificate as an **Applikationsentwickler EFZ**. Although I'm still in education, I have a strong passion for technology and a knack for problem-solving.
+I'm currently pursuing my certificate as an **Applicationdeveloper EFZ**. Although I'm still in education, I have a strong passion for technology and a knack for problem-solving.
 
 ## 🛠️ Skills
 
