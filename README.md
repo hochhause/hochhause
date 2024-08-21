@@ -20,4 +20,4 @@ I'm currently pursuing my certificate as an **Applicationdeveloper EFZ**. Althou
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sasha-bieri-b411a2316/)
-- **Email:** [hyp3r.c0der@gmail.com](mailto:hyp3r.c0der@gmail.com)
+- **Email:** [sashabieri@gmail.com](mailto:sashabieri@gmail.com)
